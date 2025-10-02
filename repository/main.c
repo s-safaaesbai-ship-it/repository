@@ -1,3 +1,4 @@
 int main
-bye
-evai
+ei
+hola
+ciao
